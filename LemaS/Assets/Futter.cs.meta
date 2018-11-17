@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 86ad7c56216e6c343aba2f8d0ee6cd23
+timeCreated: 1503992118
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - goFutter: {fileID: 1602888050203944, guid: e4704350e7945b24cbe58832e4e7f5ba, type: 2}
+  - Rand_links: {instanceID: 0}
+  - Rand_rechts: {instanceID: 0}
+  - Rand_oben: {instanceID: 0}
+  - Rand_unten: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

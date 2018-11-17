@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f60298b08dabb6a41a267d00d450ebe1
+timeCreated: 1503995907
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - infotext: {instanceID: 0}
+  - Schlangenkoerper: {fileID: 1136595066842630, guid: 89e73a14a1544bc49ad63337f24cab7e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
